@@ -1,6 +1,13 @@
 # Test
 Dette er en test for å se hvordan vi kan bruke Git 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1wwAvM8bUVQIdxTJaiTxm8mhAJ_Re6kgW/view?usp=drive_link">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1---ECGlE3JoMc-QwMLNxQ237DU_hs8ua/view?usp=drive_link">
+ <img alt="YOUR-ALT-TEXT" src="https://drive.google.com/file/d/1---ECGlE3JoMc-QwMLNxQ237DU_hs8ua/view?usp=drive_link">
+</picture>
+
+
 # Logo
 Ny logo (Apeiron med Etikk og Diopeiron) er laget i GIMP som bruker .xcf filformatet. GIMP (GNU Image Manipulator Program) er et gratis alternativ til programmer som Photoshop og Affinity (Affinity har blitt gratis per 2025, se https://www.affinity.studio/get-affinity). GIMP kan skaffes på https://gimp.cc/.
 
