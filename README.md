@@ -1,5 +1,7 @@
 # Test
 Dette er en test for å se hvordan vi kan bruke Git 
+
+# Logo
 Ny logo (Apeiron med Etikk og Diopeiron) er laget i GIMP som bruker .xcf filformatet. GIMP (GNU Image Manipulator Program) er et gratis alternativ til programmer som Photoshop og Affinity (Affinity har blitt gratis per 2025, se https://www.affinity.studio/get-affinity). GIMP kan skaffes på https://gimp.cc/.
 
 GIMP er et fint åpent kilde (open source) og gratis alternativ for Photoshop og fungerer like godt på alle operativsystem; MacOS, Windows og Linux. Om du ikke skulle ønske å prøve GIMP, er Affinity nå også et godt alternativ som både er gratis og ikke krever at du installerer hele Adobe nettverket av applikasjoner. Husk at ingenting er gratis. GIMP er gratis fordi det er Open Source, mens Affinity er ikke det (per 2025). Dette dokumentet tar for seg hvordan ting ble og kan bli gjort i GIMP.
