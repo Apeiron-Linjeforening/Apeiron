@@ -4,7 +4,7 @@ Dette er en test for å se hvordan vi kan bruke Git
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1wwAvM8bUVQIdxTJaiTxm8mhAJ_Re6kgW/view?usp=drive_link">
  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1---ECGlE3JoMc-QwMLNxQ237DU_hs8ua/view?usp=drive_link">
- <img alt="YOUR-ALT-TEXT" src="https://drive.google.com/file/d/1---ECGlE3JoMc-QwMLNxQ237DU_hs8ua/view?usp=drive_link">
+ <img src="https://drive.google.com/file/d/1---ECGlE3JoMc-QwMLNxQ237DU_hs8ua/view?usp=drive_link">
 </picture>
 
 
