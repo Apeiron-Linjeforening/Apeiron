@@ -8,3 +8,6 @@
 
 ## Desember
 <img width="1444" height="815" alt="Image" src="https://github.com/user-attachments/assets/23658c2d-bf6c-4be8-8037-d07d1cc812a3" />
+
+## Januar
+![Image](https://github.com/user-attachments/assets/6734b560-611d-4a02-940d-a545dafbb8b8)
