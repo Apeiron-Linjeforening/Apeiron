@@ -22,5 +22,7 @@ Videre vil Apeiron Linjeforening for Filosofi og Etikk legge ut div. informasjon
 
 Det er vårt håp, som siden utvikler seg, at både studenten, studentorganisasjoner, linjeforeninger og andre vil bidra til å skape og videreutvikle siden, og at andre linjeforeninger kan ta inspirasjon og hjelpe deres studenter på lik måte. Vi håper også at vi skal kunne få laget flere sider om hvordan man kan bidra, kopiere eller ta inspirasjon fra vårt system, med grundige veiledninger som f.eks hvordan sette opp en GitHub side.
 
+**Apeiron kommer _ikke_ til å vise hvordan man kan eller oppfordre bruk av språkmodeller (altså en KI) til å 'jukse' på eksamen og innleveringer. Apeiron kommer derimot til å veilede studenten gjennom hvordan man kan bruke en språkmotor lokalt, hvordan slette logg på kjente språkmodeller (ChatGPT, Grok, Copilot, Gemini, osv.) for å vise hvordan en student kan ha kontroll over egen informasjon, og hvordan bruke en språkmodell i akademisk arbeid.
+
 ## Ønsker du å bidra?
 Om andre linjeforeninger, studentorganisasjoner eller andre ønsker å bidra, kontakt oss på vår Gmail: apeironlinjeforening@gmail.com
