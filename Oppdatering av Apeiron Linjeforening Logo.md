@@ -4,6 +4,7 @@ Ny logo (Apeiron med Etikk og Diopeiron) er laget i GIMP som bruker .xcf filform
 
 GIMP er et fint åpent kilde (open source) og gratis alternativ for Photoshop og fungerer like godt på alle operativsystem; MacOS, Windows og Linux. Om du ikke ønsker å prøve GIMP, er Affinity også et greit alternativ som både er gratis og ikke krever at du installerer hele Adobe nettverket av applikasjoner. Husk at ingenting er gratis. GIMP er gratis fordi det er Open Source, mens Affinity er ikke det (per 2025). Dette dokumentet tar for seg hvordan ting ble og kan bli gjort i GIMP.
 
+### Font Brukt
 Font brukt i logoen ble i 2025 endret til Cinzel SemiBold fordi tidligere brukt font er uvisst: https://fonts.google.com/specimen/Cinzel. 
 Font Størrelser:
  “APEIRON er ikke endret, men for lignende fonter vil den være 1000px om Cormorant Garamond blir brukt og 907px om Cinzel SemiBold blir brukt.
@@ -13,8 +14,10 @@ Fonter som ligner på den som ble brukt frem til 2025 inkluderer; https://fonts.
 
 BEGREP TIDSSKRIFT bruker noe lignende Dorsa: https://fonts.google.com/specimen/Dorsa 
 
-Hvordan Finne Flere Fonter:
-Om du ønsker å finne andre alternativer har Google Fonts (https://fonts.google.com/) et stort lager med gratis fonter. For å laste ned en font trykker du på “Get Font” og trykker så på “Download all” og ikke “Get embedded code”.
+### Hvordan Finne Flere Fonter
+<img src="Bilder/sb.png" width="500" height="500" align="right">
+Om du ønsker å finne andre alternativer har Google Fonts (https://fonts.google.com/) et stort lager med gratis fonter. For å laste ned en font trykker du på “Get Font” og trykker så på “Download all” og ikke “Get embedded code”. 
+
 
 Du trenger heller ikke å laste ned en font for å se hvordan den vil se ut med din ønskede tekst. Skrull ned til du ser “Type here to preview text” og gjør som det står. Du vil så se hvordan teksten ser ut.
 
