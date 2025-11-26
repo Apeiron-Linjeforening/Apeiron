@@ -17,6 +17,7 @@ Dette inkluderer informasjon fra NTNU som de har på sine sider og som de hevder
 Det er vår mening at NTNU har gjort en dårlig jobb med å gjøre informasjon lett tilgjengelig, og det er *Apiron*, det ubestemmelige og grenseløse, som har som oppgave å gi en balanse til elementene.
 
 Vi ønsker å gi studenten ett sted for å finne alle vertkøyene de kan trenge slik at det er lett tilgjengelig, om det er emnekoder, emnebeskrivelser, tidligere eksamensoppgaver, pensum, tidligere pensum, eksamener, tips og trikks for studiene, hjelp og tips til program som VPN, bilderedigering, føre referanser, skrive oppgaver, osv., i tillegg til informasjon for Linjeforeninger som hvordan lage en logo, føre referat, søke om støtte, osv.
+Videre vil Apeiron Linjeforening for Filosofi og Etikk legge ut div. informasjon om hvordan og hvorfor vi har gjort det vi har gjort og hvordan det har gått. Et eksempel er hvorfor vi har sosialkvelder på Onsdager og hvordan det har vist seg å gå for oppmøte av studenter.
 
 Det er vårt håp, som siden utvikler seg, at både studenten, studentorganisasjoner, linjeforeninger og andre vil bidra til å skape og videreutvikle siden, og at andre linjeforeninger kan ta inspirasjon og hjelpe deres studenter på lik måte.
 
