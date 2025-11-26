@@ -1,5 +1,5 @@
-# Test
-Dette er en test for å se hvordan vi kan bruke Git 
+# Dette er en test for å se hvordan vi kan bruke Git 
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="/Bilder/Tekstlogo Lys.png">
