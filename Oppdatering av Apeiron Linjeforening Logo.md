@@ -30,7 +30,7 @@ Du trenger heller ikke å laste ned en font for å se hvordan den vil se ut med 
 <br/>
 
 ## Hvordan få uthulet tekst slik som den er i den nåværende logoen i GIMP:
-Velg Text Tool før du velger hele teksten du ønsker å redigere med ctrl+A. Til venstre side av skjermen se etter Style. Under Style ønsker du så å velge Outlined. Bim Bæm Bom du skal nå ha fått en uthulet tekst!
+Velg Text Tool før du velger hele teksten du ønsker å redigere med ctrl+A. Til venstre side av skjermen se etter Style. Under Style ønsker du så å velge Outlined. **Bim Bæm Bom** du skal nå ha fått en uthulet tekst!
 
 <img src="Bilder/sb2.png" width="600" height="600"> <img src="Bilder/sb3.png" width="346" height="346">
 
