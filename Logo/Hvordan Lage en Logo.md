@@ -1,4 +1,4 @@
-![Image](/Bilder/Tekstlogo Mørk.png)
+ <img src="/Bilder/Tekstlogo Mørk.png">
 
 Ny logo (Apeiron med Etikk og Diopeiron) er laget i GIMP som bruker .xcf filformatet. GIMP (GNU Image Manipulator Program) er et gratis alternativ til programmer som Photoshop og Affinity (Affinity har blitt gratis per 2025, se https://www.affinity.studio/get-affinity). GIMP kan skaffes på https://gimp.cc/.
 
