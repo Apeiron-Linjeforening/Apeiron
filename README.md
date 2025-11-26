@@ -8,8 +8,17 @@ _Elementene står i motsetning til hverandre og oppveier hverandre. Hvis ett ele
 
 [¹]: https://snl.no/apeiron
 
-# Målet til Apeiron
+# Målet til Apeiron og vår Filosofi
 Målet til Apeiron er å gi et alternativ til sidene gitt (og ikke gitt) av NTNU, i tillegg til å gi studenten alle verktøyene de kan trenge iløpet av studieløpet sitt.
 
-Filosofien til Apeiron er at studenten skal kunne ha informasjon __lett__ tilgjengelig. Dette inkluderer informasjon som NTNU hevder de skal gi studenten (som Sensurveiledning).
-Grunnelemtet vårt er at studenten skal kunne ha alle vertkøyene de kan trenge lett tilgjengelig, om det er emnekoder, emnebeskrivelser, tidligere eksamensoppgaver, pensum, tidligere pensum, eksamener, tips og trikks for studiene, hjelp og tips til program som VPN, bilderedigering, føre referanser, skrive oppgaver m.m. Det er dette som gjør opp denne sidens _Apeiron_.
+Filosofien til Apeiron er at studenten skal kunne ha informasjon __lett__ tilgjengelig. 
+Dette inkluderer informasjon fra NTNU som de har på sine sider og som de hevder skal gi studenten (som Sensurveiledning).
+
+Det er vår mening at NTNU har gjort en dårlig jobb med å gjøre informasjon lett tilgjengelig, og det er *Apiron*, det ubestemmelige og grenseløse, som har som oppgave å gi en balanse til elementene.
+
+Vi ønsker å gi studenten ett sted for å finne alle vertkøyene de kan trenge slik at det er lett tilgjengelig, om det er emnekoder, emnebeskrivelser, tidligere eksamensoppgaver, pensum, tidligere pensum, eksamener, tips og trikks for studiene, hjelp og tips til program som VPN, bilderedigering, føre referanser, skrive oppgaver m.m. 
+
+Det er vårt håp, som siden utvikler seg, at både studenten, studentorganisasjoner, linjeforeninger og andre vil bidra til å skape og videreutvikle siden, og at andre linjeforeninger kan ta inspirasjon og hjelpe deres studenter på lik måte.
+
+## Ønsker du å bidra?
+Om andre linjeforeninger, studentorganisasjoner eller andre ønsker å bidra, kontakt oss på vår Gmail: apeironlinjeforening@gmail.com
