@@ -22,18 +22,6 @@ Hvordan få uthulet tekst slik som den er i den nåværende logoen i GIMP:
 Velg Text Tool før du velger hele teksten du ønsker å redigere med ctrl+A. Til venstre side av skjermen se etter Style. Under Style ønsker du så å velge Outlined. Bim Bæm Bom du skal nå ha fått en uthulet tekst!
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Mulige fonter som kan være tidligere font:
 https://fonts.google.com/specimen/Spectral - Nei
 https://fonts.google.com/specimen/Newsreader - Nei 
