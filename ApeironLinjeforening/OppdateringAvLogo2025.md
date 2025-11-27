@@ -1,5 +1,5 @@
-![Light](Bilder/Tekstlogo%20Mørk.png#gh-light-mode-only)
-![Dark](Bilder/Tekstlogo%20Lys.png#gh-dark-mode-only)
+![Light](/Bilder/Tekstlogo%20Mørk.png#gh-light-mode-only)
+![Dark](/Bilder/Tekstlogo%20Lys.png#gh-dark-mode-only)
 
 Ny logo (Apeiron med Etikk og Diopeiron) er laget i GIMP som bruker .xcf filformatet. GIMP (GNU Image Manipulator Program) er et gratis alternativ til programmer som Photoshop og Affinity (Affinity har blitt gratis per 2025, se https://www.affinity.studio/get-affinity). GIMP kan skaffes på https://gimp.cc/.
 
@@ -12,7 +12,7 @@ Font brukt i underteksten ble i 2025 endret til Cinzel SemiBold. Dette var den f
  “APEIRON er ikke endret, men for lignende fonter vil den være 1000px om Cormorant Garamond blir brukt og 907px om Cinzel SemiBold blir brukt.
 “LINJEFORENING FOR FILOSOFI OG ETIKK” er 312px i Cinzel SemiBold og har en linjeavstand på -150.
 
-<img src="Bilder/Gammel Logo.png" width="500" height="500" align="right">
+<img src="/Bilder/Gammel Logo.png" width="500" height="500" align="right">
 
 Andre onter som ligner på den som ble brukt i logoen frem til 2025, som du kan se til høyre, inkluderer; https://fonts.google.com/specimen/Cormorant+Garamond, https://fonts.google.com/specimen/Cormorant+Infant og https://fonts.google.com/specimen/Playfair.
 
@@ -21,7 +21,7 @@ BEGREP TIDSSKRIFT bruker noe lignende Dorsa: https://fonts.google.com/specimen/D
 <br/>
 
 ## Hvordan Finne Flere Fonter
-<img src="Bilder/sb.png" width="400" height="400" align="right">
+<img src="/Bilder/sb.png" width="400" height="400" align="right">
 Om du ønsker å finne andre alternativer har Google Fonts (https://fonts.google.com/) et stort lager med gratis fonter. For å laste ned en font trykker du på “Get Font” og trykker så på “Download all” og ikke “Get embedded code”. 
 
 
@@ -33,7 +33,7 @@ Du trenger heller ikke å laste ned en font for å se hvordan den vil se ut med 
 ## Hvordan få uthulet tekst slik som den er i den nåværende logoen i GIMP:
 Velg Text Tool før du velger hele teksten du ønsker å redigere med ctrl+A. Til venstre side av skjermen se etter Style. Under Style ønsker du så å velge Outlined. **Bim Bæm Bom** du skal nå ha fått en uthulet tekst!
 
-<img src="Bilder/sb2.png" width="600" height="600"> <img src="Bilder/sb3.png" width="346" height="346">
+<img src="/Bilder/sb2.png" width="600" height="600"> <img src="/Bilder/sb3.png" width="346" height="346">
 
 Fonter som ligner på original font:
 - https://fonts.google.com/specimen/Spectral
