@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="/Bilder/Tekstlogo Lys.png">
- <source media="(prefers-color-scheme: light)" srcset="/Bilder/Tekstlogo Mørk.png">
+ <source media="(prefers-color-scheme: dark)" srcset="/Bilder/Tekstlogo Mørk.png">
+ <source media="(prefers-color-scheme: light)" srcset="/Bilder/Tekstlogo Lys.png">
  <img alt="Fallback image description" src="/Bilder/Tekstlogo Mørk.png">
 </picture>
 
