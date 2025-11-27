@@ -8,7 +8,7 @@ Dette gjør du ved å først navigere deg til der du ønsker å lage filen.
 <br>
 (2) Trykk "_Create new file_".
 
-<img src="Bilder/Skrivemedgithub/Lagefil1.png" align="center">
+<img src="/Bilder/Skrivemedgithub/Lagefil1.png" align="center">
 
 Nå vil du få opp en ny side hvor du kan: 
 <br>
@@ -16,7 +16,7 @@ Nå vil du få opp en ny side hvor du kan:
 <br>
 (4) Trykk "_Commit changes..._"
 
-<img src="Bilder/Skrivemedgithub/Lagefil2.png" align="center">
+<img src="/Bilder/Skrivemedgithub/Lagefil2.png" align="center">
 <br>
 (i) Om du ønsker kan du endre hva som står i "_Commit message_". Det vil si at du endrer hva som sees som den endringen du har gjort i eller med filen.
 <br>
@@ -24,7 +24,7 @@ Nå vil du få opp en ny side hvor du kan:
 <br>
 (5) Trykk "Sign off and commit changes".
 
-<img src="Bilder/Skrivemedgithub/Lagefil3.png" align="center">
+<img src="/Bilder/Skrivemedgithub/Lagefil3.png" align="center">
 
 ## Skrive i en .md fil
 I denne seksjonen skal vi gå gjennom det mest brubare om hvordan du kan skrive i en .md fil. 
