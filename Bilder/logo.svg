@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Dark mode logo (shown when GitHub is in dark mode) -->
+  <image xlink:href="/Bilder/Tekstlogo Mørk.png" width="600" height="200"/>
+  <!-- Light mode logo (shown when GitHub is in light mode) -->
+  <image xlink:href="/Bilder/Tekstlogo Lys.png" width="600" height="200"/>
+
+  <style type="text/css"><![CDATA[
+    image:nth-child(1) { opacity: 1; }  /* dark logo visible by default */
+    image:nth-child(2) { opacity: 0; }  /* light logo hidden by default */
+
+    @media (prefers-color-scheme: light) {
+      image:nth-child(1) { opacity: 0; }  /* hide dark */
+      image:nth-child(2) { opacity: 1; }  /* show light */
+    }
+  ]]></style>
+</svg>
