@@ -6,7 +6,11 @@ Ny logo (Apeiron med Etikk og Diopeiron) er laget i GIMP som bruker .xcf filform
 GIMP er et fint åpent kilde (open source) og gratis alternativ for Photoshop og fungerer like godt på alle operativsystem; MacOS, Windows og Linux. Om du ikke ønsker å prøve GIMP, er Affinity også et greit alternativ som både er gratis og ikke krever at du installerer hele Adobe nettverket av applikasjoner. Husk at ingenting er gratis. GIMP er gratis fordi det er Open Source, mens Affinity er ikke det (per 2025). Dette dokumentet tar for seg hvordan ting ble og kan bli gjort i GIMP.
 
 ## Font Brukt
-Font brukt i underteksten ble i 2025 endret til Cinzel SemiBold. Dette var den fonten som lignet mest og passet best. Tidligere brukt font er uvisst. Cinzel kan fåes her: https://fonts.google.com/specimen/Cinzel. 
+Font brukt i underteksten ble i 2025 endret til **Cinzel SemiBold**. Dette var den fonten som lignet mest og passet best, ettersom fonten som ble tidligere brukt font var uvisst. Cinzel kan fåes her: https://fonts.google.com/specimen/Cinzel. 
+Etter videre undersøkelse (aka en viss student så på fonten og av en eller annen grunn visste hvilken font det var) viste det seg at font tidligere brukt er **Castellar**. Dessverre er Castellar under CopyRight av Microsoft, og de gir kun tilgang til den ved bruk av Microsoft sine egne produkt. Heldigvis kan fotnen skaffes [her](https://www.world-fonts.com/font/show/castellar-version-1-50 "more info")
+
+
+
 
 ## Font Størrelser:
  “APEIRON er ikke endret, men for lignende fonter vil den være 1000px om Cormorant Garamond blir brukt og 907px om Cinzel SemiBold blir brukt.
