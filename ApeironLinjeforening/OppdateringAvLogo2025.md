@@ -7,7 +7,7 @@ GIMP er et fint åpent kilde (open source) og gratis alternativ for Photoshop og
 
 ## Font Brukt
 Font brukt i underteksten ble i 2025 endret til **Cinzel SemiBold**. Dette var den fonten som lignet mest og passet best, ettersom fonten som ble tidligere brukt font var uvisst. Cinzel kan fåes her: https://fonts.google.com/specimen/Cinzel. 
-Etter videre undersøkelse (aka en viss student så på fonten og av en eller annen grunn visste hvilken font det var) viste det seg at font tidligere brukt er **Castellar**. Dessverre er Castellar under CopyRight av Microsoft, og de gir kun tilgang til den ved bruk av Microsoft sine egne produkt. Heldigvis kan fotnen skaffes [her](https://www.world-fonts.com/font/show/castellar-version-1-50 "more info")
+Etter videre undersøkelse (aka en viss student så på fonten og av en eller annen grunn visste hvilken font det var) viste det seg at font tidligere brukt er **Castellar**. Dessverre er Castellar under CopyRight av Microsoft, og de gir kun tilgang til den ved bruk av Microsoft sine egne produkt. Heldigvis kan fotnen skaffes [her](https://www.world-fonts.com/font/show/castellar-version-1-50 "more info"). Det er også fullt mulig *host hark* at *noen* kan, med uhell, ha lastet den opp på Apeiron sin private skydisk til privat bruk.
 
 
 
