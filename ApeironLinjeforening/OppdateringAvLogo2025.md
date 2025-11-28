@@ -8,19 +8,19 @@ GIMP er et fint åpent kilde (open source) og gratis alternativ for Photoshop og
 ## Font Brukt
 Font brukt i underteksten ble i 2025 endret til **Cinzel SemiBold**. Dette var den fonten som lignet mest og passet best, ettersom fonten som ble tidligere brukt font var uvisst. Cinzel kan fåes her: https://fonts.google.com/specimen/Cinzel. 
 <br>
-<br>
+
 Etter videre undersøkelse (aka en viss student så på fonten og av en eller annen grunn visste hvilken font det var) viste det seg at font tidligere brukt er **Castellar**. Dessverre er Castellar under CopyRight av Microsoft, og de gir kun tilgang til den ved bruk av Microsoft sine egne produkt. Heldigvis kan fotnen skaffes [her](https://www.world-fonts.com/font/show/castellar-version-1-50 "more info"). Det er også fullt mulig *host hark* at *noen* kan, med uhell, ha lastet den opp på Apeiron sin private skydisk til privat bruk.
+<br>
 
-
+Andre fonter som ligner på den som ble brukt i logoen (Castellar) frem til 2025 inkluderer [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond "more info"), [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant "more info") og [Playfair](https://fonts.google.com/specimen/Playfair "more info").
 
 
 ## Font Størrelser:
- “APEIRON er ikke endret, men for lignende fonter vil den være 1000px om Cormorant Garamond blir brukt og 907px om Cinzel SemiBold blir brukt.
-“LINJEFORENING FOR FILOSOFI OG ETIKK” er 312px i Cinzel SemiBold og har en linjeavstand på -150.
+Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker å bruke andre lignende fonter vil det være 1000px for Cormorant Garamond og 907px om Cinzel SemiBold blir brukt.
+“LINJEFORENING FOR FILOSOFI OG ETIKK” er i **Cinzel Semibold** med størrelse **312px** og **linjeavstand -150**.
 
 <img src="/Bilder/Gammel Logo.png" width="500" height="500" align="right">
 
-Andre onter som ligner på den som ble brukt i logoen frem til 2025, som du kan se til høyre, inkluderer; https://fonts.google.com/specimen/Cormorant+Garamond, https://fonts.google.com/specimen/Cormorant+Infant og https://fonts.google.com/specimen/Playfair.
 
 BEGREP TIDSSKRIFT bruker noe lignende Dorsa: https://fonts.google.com/specimen/Dorsa 
 
@@ -36,7 +36,7 @@ Du trenger heller ikke å laste ned en font for å se hvordan den vil se ut med 
 <br/>
 <br/>
 
-## Hvordan få uthulet tekst slik som den er i den nåværende logoen i GIMP:
+## Hvordan få Uthulet Tekst som den er i Nåværende Logo i GIMP:
 Velg Text Tool før du velger hele teksten du ønsker å redigere med ctrl+A. Til venstre side av skjermen se etter Style. Under Style ønsker du så å velge Outlined. **Bim Bæm Bom** du skal nå ha fått en uthulet tekst!
 
 <img src="/Bilder/sb2.png" width="600" height="600"> <img src="/Bilder/sb3.png" width="346" height="346">
