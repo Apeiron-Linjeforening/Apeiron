@@ -16,7 +16,7 @@ Etter videre undersøkelse (aka en viss student så på fonten og av en eller an
 Andre fonter som ligner på den som ble brukt i logoen (Castellar) frem til 2025 inkluderer [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond "more info"), [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant "more info") og [Playfair](https://fonts.google.com/specimen/Playfair "more info").
 
 
-## Font Størrelser:
+## Font Størrelser
 Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker å bruke andre lignende fonter vil det være 1000px for Cormorant Garamond og 907px om Cinzel SemiBold blir brukt.
 “LINJEFORENING FOR FILOSOFI OG ETIKK” er i **Cinzel Semibold** med størrelse **312px** og **linjeavstand -150**.
 
