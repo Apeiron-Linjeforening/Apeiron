@@ -15,6 +15,7 @@ Etter videre undersøkelse (aka en viss student så på fonten og av en eller an
 
 Andre fonter som ligner på den som ble brukt i logoen (Castellar) frem til 2025 inkluderer [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond "more info"), [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant "more info") og [Playfair](https://fonts.google.com/specimen/Playfair "more info").
 
+BEGREP TIDSSKRIFT bruker noe lignende [Dorsa](https://fonts.google.com/specimen/Dorsa "more info").
 
 ## Font Størrelser
 Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker å bruke andre lignende fonter vil det være 1000px for Cormorant Garamond og 907px om Cinzel SemiBold blir brukt.
@@ -23,7 +24,6 @@ Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker
 <img src="/Bilder/Gammel Logo.png" width="500" height="500" align="right">
 
 
-BEGREP TIDSSKRIFT bruker noe lignende Dorsa: https://fonts.google.com/specimen/Dorsa 
 
 <br/>
 
