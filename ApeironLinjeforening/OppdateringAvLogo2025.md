@@ -18,13 +18,10 @@ Andre fonter som ligner på den som ble brukt i logoen (Castellar) frem til 2025
 BEGREP TIDSSKRIFT bruker noe lignende [Dorsa](https://fonts.google.com/specimen/Dorsa "more info").
 
 ## Font Størrelser
-Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker å bruke andre lignende fonter vil det være 1000px for Cormorant Garamond og 907px om Cinzel SemiBold blir brukt.
-“LINJEFORENING FOR FILOSOFI OG ETIKK” er i **Cinzel Semibold** med størrelse **312px** og **linjeavstand -150**.
+<img src="/Bilder/Gammel Logo.png" width="500" height="500" align="right"> Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker å bruke andre lignende fonter vil det være 1000px for Cormorant Garamond og 907px om Cinzel SemiBold blir brukt. 
+“LINJEFORENING FOR FILOSOFI OG ETIKK” er i **Cinzel Semibold** med størrelse **312px** og **linjeavstand -150**. 
 
-<img src="/Bilder/Gammel Logo.png" width="500" height="500" align="right">
-
-
-
+<br/>
 <br/>
 
 ## Hvordan Finne Flere Fonter
@@ -33,10 +30,13 @@ Om du ønsker å finne andre alternativer har Google Fonts (https://fonts.google
 
 
 Du trenger heller ikke å laste ned en font for å se hvordan den vil se ut med din ønskede tekst. Skrull ned til du ser “Type here to preview text” og gjør som det står. Du vil så se hvordan teksten ser ut.
-
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Hvordan få Uthulet Tekst som den er i Nåværende Logo i GIMP:
 Velg Text Tool før du velger hele teksten du ønsker å redigere med ctrl+A. Til venstre side av skjermen se etter Style. Under Style ønsker du så å velge Outlined. **Bim Bæm Bom** du skal nå ha fått en uthulet tekst!
 
