@@ -1,5 +1,5 @@
-![Light](/Bilder/Tekstlogo%20Mørk.png#gh-light-mode-only)
-![Dark](/Bilder/Tekstlogo%20Lys.png#gh-dark-mode-only)
+![Light](/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/TekstlogoMørk.png#gh-light-mode-only)
+![Dark](/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/TekstlogoLys.png#gh-dark-mode-only)
 
 # <h1 align="center">Oppdatering av Logo November 2025</h1>
 Ny logo (Apeiron med Etikk og Diopeiron) er laget i GIMP som bruker .xcf filformatet. GIMP (GNU Image Manipulator Program) er et gratis alternativ til programmer som Photoshop og Affinity (Affinity har blitt gratis per 2025, se https://www.affinity.studio/get-affinity). GIMP kan skaffes på https://gimp.cc/.
@@ -18,7 +18,7 @@ Andre fonter som ligner på den som ble brukt i logoen (Castellar) frem til 2025
 BEGREP TIDSSKRIFT bruker noe lignende [Dorsa](https://fonts.google.com/specimen/Dorsa "more info").
 
 ## Font Størrelser
-<img src="/Bilder/Gammel Logo.png" width="500" height="500" align="right"> Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker å bruke andre lignende fonter vil det være 1000px for Cormorant Garamond og 907px om Cinzel SemiBold blir brukt. 
+<img src="/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/GammelLogo.png" width="500" height="500" align="right"> Størrelsen for “APEIRON" i **Castellar Regular** er **867px**. Om man ønsker å bruke andre lignende fonter vil det være 1000px for Cormorant Garamond og 907px om Cinzel SemiBold blir brukt. 
 “LINJEFORENING FOR FILOSOFI OG ETIKK” er i **Cinzel Semibold** med størrelse **312px** og **linjeavstand -150**. 
 
 <br/>
