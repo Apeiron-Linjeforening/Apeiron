@@ -1,5 +1,5 @@
-![Light](Bilder/Tekstlogo%20Mørk.png#gh-light-mode-only)
-![Dark](Bilder/Tekstlogo%20Lys.png#gh-dark-mode-only)
+![Light](/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/TekstlogoMørk.png#gh-light-mode-only)
+![Dark](/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/TekstlogoLys.png#gh-dark-mode-only)
 
 
 _Elementene står i motsetning til hverandre og oppveier hverandre. Hvis ett element fikk forrang ville det snart oppsluke de andre. Når ett element blir fremherskende i forhold til et annet, må det bøte for sin «urettferdighet» ved at det igjen blir oppslukt av det ubestemmelige og grenseløse, av apeiron.[¹]_
