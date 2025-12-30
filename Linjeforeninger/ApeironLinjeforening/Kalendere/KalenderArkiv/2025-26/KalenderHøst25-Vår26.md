@@ -10,8 +10,8 @@
 <img width="1444" height="815" alt="Image" src="https://github.com/Apeiron-Linjeforening/Apeiron/blob/main/Linjeforeninger/ApeironLinjeforening/Kalendere/KalenderArkiv/2025-26/2025Desember.png" />
 
 <h1 align="center">Januar 26</h1>
-<img src="https://github.com/Apeiron-Linjeforening/Apeiron/blob/main/Linjeforeninger/ApeironLinjeforening/Kalendere/KalenderArkiv/2025-26/2026Januar.png" />
+<img src="https://github.com/Apeiron-Linjeforening/Apeiron/blob/main/Linjeforeninger/ApeironLinjeforening/Kalendere/KalenderArkiv/2025-26/2026Januar.webp" />
 
 
 <h1 align="center">Februar 26</h1>
-<img src="https://github.com/Apeiron-Linjeforening/Apeiron/blob/main/Linjeforeninger/ApeironLinjeforening/Kalendere/KalenderArkiv/2025-26/2026Januar.png" />
+<img src="https://github.com/Apeiron-Linjeforening/Apeiron/blob/main/Linjeforeninger/ApeironLinjeforening/Kalendere/KalenderArkiv/2025-26/2026Februar.webp" />
