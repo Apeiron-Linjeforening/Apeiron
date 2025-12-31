@@ -17,3 +17,9 @@
 ```
 [Navn](./AutoMørkLysLogoMal.md)
 ```
+
+Om det vi ønsker å lenke til er utenfor mappen innholdsfortegnelsen er i, kan vi gjøre dette på 
+[Navn](../SkriveTekst.md)
+```
+[Navn](../SkriveTekst.md)
+```
