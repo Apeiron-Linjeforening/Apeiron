@@ -1,13 +1,19 @@
-# Mal for Innholdsfortegnelser
+# <p align="center">Mal for Innholdsfortegnelser
 
 
-## Om Filen(e) er i samme mappe/directory:
-Sentrert lenke:
+### <p align="center">Om Filen(e) er i samme mappe/directory:
 
-'<p align="center">
+<p align="center">
+  <a href="./AutoMørkLysLogoMal.md">Sentrert Lenke</a>
+</p>
+
+```
+<p align="center">
   <a href="./AutoMørkLysLogoMal.md">Eksempel</a>
-</p>'
+</p>
+```
 
-Venstreliggende lenke:
-
-'[Navn](./AutoMørkLysLogoMal.md)'
+[Venstreliggende Lenke](./AutoMørkLysLogoMal.md)
+```
+[Navn](./AutoMørkLysLogoMal.md)
+```
