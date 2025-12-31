@@ -17,11 +17,20 @@
 ```
 [Navn](./AutoMørkLysLogoMal.md)
 ```
+<br/>
 
-Om det vi ønsker å lenke til er utenfor mappen innholdsfortegnelsen er i, kan vi gjøre dette på 
-[Navn](../SkriveTekst.md)
+Om vi ønsker å ha en lenke til en fil 'høyere opp' gjør vi dette ved å skrive ```../``` for hver mappe opp vi går. Om vi skal til SkriveTekst.md, som er en mappe over InnholdsfortegnelseMal.md trenger vi bare en ```../SkriveTekst.md```. Om vi skal lenke til noe enda en mappe opp bruker vi to ```../../```, som i ```../../README.md``` [To mapper opp](../../README.md)
+
+<br/>
+
+[SkriveTekst](../SkriveTekst.md)
+
 ```
 [Navn](../SkriveTekst.md)
 ```
 
-[Navn](/EksempelMappe/Eksempelfil.md)
+[Lenke til en fil i en mappe inni nåværende mappe](./EksempelMappe/Eksempelfil.md)
+
+```
+[Eksempel](./EksempelMappe/Eksempelfil.md)
+```
