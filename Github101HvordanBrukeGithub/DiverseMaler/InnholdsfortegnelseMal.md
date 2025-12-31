@@ -4,9 +4,9 @@
 Sentrert lenke:
 
 <p align="center">
-  <a href="/AutoMørkLysLogoMal.md">Eksempel</a>
+  <a href="DiverseMaler/AutoMørkLysLogoMal.md">Eksempel</a>
 </p>
 
 Venstreliggende lenke:
 
-[Navn](/AutoMørkLysLogoMal.md)
+[Navn](DiverseMaler/AutoMørkLysLogoMal.md)
