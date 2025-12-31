@@ -1,12 +1,13 @@
-# Innholdsfortegnelse
+# Mal for Innholdsfortegnelser
 
 
+## Om Filen(e) er i samme mappe/directory:
 Sentrert lenke:
 
-<p align="center">
+'<p align="center">
   <a href="./AutoMørkLysLogoMal.md">Eksempel</a>
-</p>
+</p>'
 
 Venstreliggende lenke:
 
-[Navn](./AutoMørkLysLogoMal.md)
+'[Navn](./AutoMørkLysLogoMal.md)'
