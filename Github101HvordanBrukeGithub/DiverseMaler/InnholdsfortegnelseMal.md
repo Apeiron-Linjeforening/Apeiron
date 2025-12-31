@@ -1,12 +1,12 @@
 # Innholdsfortegnelse
 
 
-Sentrert:
+Sentrert lenke:
 
 <p align="center">
-  <a href="/Apeiron/Github101HvordanBrukeGithub/DiverseMaler/AutoMørkLysLogoMal.md">Eksempel</a>
+  <a href="/AutoMørkLysLogoMal.md">Eksempel</a>
 </p>
 
-Venstreliggende:
+Venstreliggende lenke:
 
-[Mål og Filosofi](MålogFilosofi.md)
+[Navn](/AutoMørkLysLogoMal.md)
