@@ -4,9 +4,9 @@
 Sentrert lenke:
 
 <p align="center">
-  <a href="DiverseMaler/AutoMørkLysLogoMal.md">Eksempel</a>
+  <a href="Github101HvordanBrukeGithub/SkriveTekst.md">Eksempel</a>
 </p>
 
 Venstreliggende lenke:
 
-[Navn](DiverseMaler/AutoMørkLysLogoMal.md)
+[Navn](Github101HvordanBrukeGithub/SkriveTekst.md)
