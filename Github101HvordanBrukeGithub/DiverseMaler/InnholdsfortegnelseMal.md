@@ -23,3 +23,5 @@ Om det vi ønsker å lenke til er utenfor mappen innholdsfortegnelsen er i, kan 
 ```
 [Navn](../SkriveTekst.md)
 ```
+
+[Navn](/EksempelMappe/Eksempelfil.md)
