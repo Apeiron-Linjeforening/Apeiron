@@ -4,9 +4,9 @@
 Sentrert lenke:
 
 <p align="center">
-  <a href="Github101HvordanBrukeGithub/SkriveTekst.md">Eksempel</a>
+  <a href="Apeiron/Github101HvordanBrukeGithub/SkriveTekst.md">Eksempel</a>
 </p>
 
 Venstreliggende lenke:
 
-[Navn](Github101HvordanBrukeGithub/SkriveTekst.md)
+[Navn](Apeiron/Github101HvordanBrukeGithub/SkriveTekst.md)
