@@ -1,5 +1,5 @@
-![Light](/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/TekstlogoMørk.png#gh-light-mode-only)
-![Dark](/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/TekstlogoLys.png#gh-dark-mode-only)
+![Light](Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/ApeironTekstLogo/ApeironTekstLogoMørk.png#gh-light-mode-only)
+![Dark](Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/ApeironTekstLogo/TekstlogoLys.png#gh-dark-mode-only)
 
 # Innholdsfortegnelse
 
