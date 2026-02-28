@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/GifFiler/Ape400.gif">
-    <source media="(prefers-color-scheme: light)" srcset="/Bilder/Tekstlogo%20Mørk.png">
+    <source media="(prefers-color-scheme: light)" srcset="/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/GifFiler/Ape400.gif">
     <img alt="Centered image that changes with theme" src="/Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/ApeironTekstLogo/ApeironTekstLogoMørk.png">
   </picture>
 </p>   
