@@ -6,7 +6,7 @@ _Elementene står i motsetning til hverandre og oppveier hverandre. Hvis ett ele
 [¹]: https://snl.no/apeiron
 
 # Målet til Prosjekt Ape og vår Filosofi
-Målet til Prosjekt Ape er å gi et alternativ til sidene gitt (og ikke gitt) av NTNU, i tillegg til å [gi](Bilder/Ape-together-strong-meme.jpg) studenten alle verktøyene de kan trenge iløpet av studieløpet sitt.
+Målet til Prosjekt Ape er å gi et alternativ til sidene gitt (og ikke gitt) av NTNU, i tillegg til å g[i](Bilder/Ape-together-strong-meme.jpg) studenten alle verktøyene de kan trenge iløpet av studieløpet sitt.
 
 Filosofien til Apeiron er at studenten skal kunne ha informasjon __lett__ tilgjengelig. 
 Dette inkluderer informasjon fra NTNU som de har på sine sider og som de hevder studenten skal få (som Sensurveiledning).
