@@ -5,17 +5,17 @@ _Elementene står i motsetning til hverandre og oppveier hverandre. Hvis ett ele
 
 [¹]: https://snl.no/apeiron
 
-# Målet til Prosjekt Apeiron og vår Filosofi
-Målet til Prosjekt Apeiron er å gi et alternativ til sidene gitt (og ikke gitt) av NTNU, i tillegg til å gi studenten alle verktøyene de kan trenge iløpet av studieløpet sitt.
+# Målet til Prosjekt Ape og vår Filosofi
+Målet til Prosjekt Ape er å gi et alternativ til sidene gitt (og ikke gitt) av NTNU, i tillegg til å [gi](Bilder/Ape-together-strong-meme.jpg) studenten alle verktøyene de kan trenge iløpet av studieløpet sitt.
 
 Filosofien til Apeiron er at studenten skal kunne ha informasjon __lett__ tilgjengelig. 
 Dette inkluderer informasjon fra NTNU som de har på sine sider og som de hevder studenten skal få (som Sensurveiledning).
 
-Det er vår mening at informasjon for studenter ikke er lett tilgjengelig. Informasjonen er enten for spredt, bak en lukket dør av BlackBoard eller kommersiell luke av bøker, og det er *Apiron*, det ubestemmelige og grenseløse, som har som oppgave å gi en balanse til elementene, altså til tilgjengeligheten til relevant informasjon for studenter.
+Det er vår mening at informasjon for studenter ikke er lett tilgjengelig. Informasjonen er enten for spredt, bak en lukket dør av BlackBoard eller kommersiell luke av bøker, og det er *Apeiron*, det ubestemmelige og grenseløse, som har som oppgave å gi en balanse til elementene, altså til tilgjengeligheten til relevant informasjon for studenter.
 
 Vi ønsker å gi studenten ett sted for å finne alle vertkøyene de kan trenge slik at det er lett tilgjengelig, om det er emnekoder, emnebeskrivelser, tidligere eksamensoppgaver, pensum, tidligere pensum, eksamener, tips og trikks for studiene, hjelp og tips til program som VPN, bilderedigering, føre referanser, skrive oppgaver, osv., i tillegg til informasjon for Linjeforeninger som hvordan lage en logo, føre referat, søke om støtte, osv.
 
-Videre vil Apeiron Linjeforening for Filosofi og Etikk legge ut div. informasjon om hvordan og hvorfor vi har gjort det vi har gjort og hvordan det har gått. Et eksempel er hvorfor vi har sosialkvelder på Onsdager og hvordan det har vist seg å gå for oppmøte av studenter.
+Videre vil Apeiron Linjeforening for Filosofi og Etikk legge ut div. informasjon om hvordan og hvorfor vi har gjort det vi har gjort og hvordan det har gått. Et eksempel er hvorfor vi har sosialkvelder på Onsdager og hvordan det har vist seg å gå for oppmøte og trivsel for studentene våre.
 
 Det er vårt håp, som siden utvikler seg, at både studenten, studentorganisasjoner, linjeforeninger og andre vil bidra til å skape og videreutvikle siden, og at andre linjeforeninger kan ta inspirasjon og hjelpe deres studenter på lik måte. Vi håper også at vi skal kunne få laget flere sider om hvordan man kan bidra, kopiere eller ta inspirasjon fra vårt system, med grundige veiledninger som f.eks hvordan sette opp en GitHub side.
 
