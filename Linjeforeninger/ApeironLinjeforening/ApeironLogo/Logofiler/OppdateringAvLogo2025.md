@@ -7,9 +7,13 @@ Ny logo laget i 2025 (referert til som "Etikk Logo" og "2025 Logo") for å legge
 GIMP er et fint åpent kilde (open source) og gratis alternativ for Photoshop og fungerer like godt på alle operativsystem; MacOS, Windows og Linux. Om du ikke ønsker å prøve GIMP, er Affinity også et greit alternativ som både er gratis og ikke krever at du installerer hele Adobe nettverket av applikasjoner. Husk at ingenting er gratis. GIMP er gratis fordi det er Open Source, mens Affinity er ikke det (per 2025). Dette dokumentet tar for seg hvordan ting ble og kan bli gjort i GIMP.
 
 ## Font Brukt
-Font brukt før Etikk ble lagt til er **Castellar**. Dessverre er Castellar under CopyRight av Microsoft, og de gir kun tilgang til den ved bruk av Microsoft sine egne produkt. Heldigvis kan fonten skaffes [her](https://www.world-fonts.com/font/show/castellar-version-1-50 "more info"). Det er også fullt mulig *host hark* at *noen* kan, med uhell, ha lastet den opp på Apeiron sin private skydisk til privat bruk. Apeiron takker studenten som så fonten og av en eller annen grunn visste akkurat hvilken font det var. 
+Font brukt før Etikk ble lagt til er **Castellar**. 
+<br/>
+Dessverre er Castellar under CopyRight av Microsoft, og de gir kun tilgang i bruk av Microsoft sine egne produkt. Heldigvis kan fonten skaffes [her](https://www.world-fonts.com/font/show/castellar-version-1-50 "more info"). Det er fullt mulig at *host hark* *noen* kan *host hark*, ved et uhell, ha lastet den opp på Apeiron sin private skydisk til privat bruk. 
+<br/>
+Apeiron takker studenten som så fonten og av en eller annen grunn visste akkurat hvilken font det var. 
 I den oppdaterte versjonen med "Etikk" inkludert, ble en uthulet Cinzel brukt og kan skaffes [her](https://fonts.google.com/specimen/Cinzel).
-Font brukt i senere logoer vil bli nevnt i et annet oppdatert dokument, men burde fremdeles bruke Castellar.
+Font brukt i senere logoer vil bli nevnt i et annet oppdatert dokument.
 <br>
 
 Andre fonter som ligner på den som ble brukt i oppdatert 2025 logo (Castellar) inkluderer [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond "more info"), [Cormorant Infant](https://fonts.google.com/specimen/Cormorant+Infant "more info") og [Playfair](https://fonts.google.com/specimen/Playfair "more info").
