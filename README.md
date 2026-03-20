@@ -1,6 +1,9 @@
 ![Light](Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/ApeironTekstLogo/ApeironTekstLogoMørk.png#gh-light-mode-only)
 ![Dark](Linjeforeninger/ApeironLinjeforening/ApeironLogo/Logofiler/ApeironTekstLogo/TekstlogoLys.png#gh-dark-mode-only)
 
+Velkommen til Apeiron Linjeforening midlertidige informasjonsside og samarbeidspartneres repo for Kunnskaps-, Kompetanse- og Informasjonsbase (KKI) prosjektet.
+Apeiron KKI er under utvikling og denne siden er ikke ment til å ligne på det ferdige produktet.
+
 # Innholdsfortegnelse
 
 <p align="center">
